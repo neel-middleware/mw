@@ -29,14 +29,14 @@ Here are some of the key projects we are working on:
    - **Description**:It tool is a powerful solution that empowers developers to gain valuable insights into the performance and behavior of their applications.
    - **Repository**: [APM Python ](https://github.com/middleware-labs/agent-apm-python) 
 
-## Learn about Middleware 
+## Learn about Middleware 🌟
 
 - Learn how to use Middleware for Observability [docs](https://docs.middleware.io/quickstart)
 - Find some amazing [blogs](https://middleware.io/blog/)
 - Stay tuned for all our [events](https://middleware.io/events/)
 
 
-## Community
+## Community 🫂
 
 Join our community to stay updated and collaborate with other developers:
 
