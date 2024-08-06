@@ -37,7 +37,7 @@ Here are some of the key projects we are working on:
 
 Join our community to stay updated and collaborate with other developers:
 
-- Slack: [Join our Slack](https://middleware-labs-slack-invite.com)
+- Slack: [Join our Slack](https://middlewarepublic.slack.com/)
 - Twitter: [Follow us on Twitter](https://x.com/middleware_labs)
 - Mailing List: [Subscribe to our Newsletter](https://newsletters.middleware.io/)
 
